@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "クロノスタシス",
+  "base_artist": "BUMP OF CHICKEN",
+  "createdAt": "2025-12-05T02:38:27.880035Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "Kinokoteikoku",
+      "has_synced": true,
+      "path": "select/01_クロノスタシス_Kinokoteikoku.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "きのこ帝国",
+      "has_synced": true,
+      "path": "select/02_クロノスタシス_きのこ帝国.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "Kinoko Teikoku",
+      "has_synced": true,
+      "path": "select/03_クロノスタシス_Kinoko_Teikoku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/04_クロノスタシス_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "きのこ帝国",
+      "has_synced": true,
+      "path": "select/05_クロノスタシス_きのこ帝国.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "クロノスタシス - Chronostasis",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/06_クロノスタシス_-_Chronostasis_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "クロノスタシス (BUMP OF CHICKEN TOUR 2023 be there at SAITAMA SUPER ARENA - DAY1 -)",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/07_クロノスタシス_(BUMP_OF_CHICKEN_TOUR_2023_be_there_at_SAITAMA_SUPER_ARENA_-_DAY1_-)_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/08_クロノスタシス_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "クロノスタシス - Chronostasis",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/09_クロノスタシス_-_Chronostasis_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/10_クロノスタシス_BUMP_OF_CHICKEN.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "クロノスタシス",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": true,
+      "path": "select/11_クロノスタシス_BUMP_OF_CHICKEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "02. クロノスタシス",
+      "artist": "Bump of Chicken",
+      "has_synced": false,
+      "path": "select/12_02._クロノスタシス_Bump_of_Chicken.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "クロノスタシス",
+      "artist": "BUMP OF CHICKEN",
+      "has_synced": false,
+      "path": "select/pl_01_クロノスタシス_BUMP_OF_CHICKEN.txt"
+    }
+  ]
+}
